@@ -1,5 +1,5 @@
-Git plugin test repository for many branches
-============================================
+Many branch test repo
+=====================
 
 This repository was created from a script provided as part of the fix
 for [JENKINS-5724](https://issues.jenkins-ci.org/browse/JENKINS-5724).
