@@ -12,3 +12,6 @@ builds the master branch and uses the text finder plugin to mark the
 build unstable if `git.*rev-parse.*branch-[0-9][0-9]` is visible in the
 build log.  Then I created 100 branches in the repository named branch-00
 to branch-99.`
+
+I had the post-receive hook incorrectly configured. It was not listing
+the correct repository URL.
